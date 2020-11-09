@@ -1,0 +1,46 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+body {
+	font-family: "eurostile", sans-serif;
+}
+
+img.avatar {
+  border-radius: 50%;
+}
+
+.violet {
+	background-color: #7510f7;
+	padding: 3em;
+}
+
+h2 {
+	padding-bottom: 1em;
+}
+
+.center-text {
+	text-align: center;
+}
+
+.presentation {
+	font-size: 1.3rem;
+}
+.violet-text  {
+	color: #7510f7 !important;
+}
+
+.notUpperCase {
+	text-transform: lowercase !important;	
+}
+
+.waves-effect.waves-purple .waves-ripple {
+	background-color: rgba(117, 16, 247, 1);
+}
+
+.contact-logo {
+	width: 50px;
+}
